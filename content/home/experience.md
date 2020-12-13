@@ -22,24 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+  - title: Front-end developer - Scholarship student
+    company: Instituto Metrópole Digital - UFRN
+    company_url: "https://www.linkedin.com/company/metropoledigital/"
+    location: Natal, RN, Brazil
+    date_start: "2020-09-01"
+    date_end: ""
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+      Works in a development project in partnership with a multinational company in the hardware and electronics industry, developing a web application focused on the analysis and visualization of wholesale and retail data. Some technologies and libraries used are: React JS, TypeScript, MobX, Material-UI, Styled Components, etc.
+
+      - Frequent interaction with the front-end, back-end and UX / UI teams; - Participation in planning, analysis, development and testing;
+      - Participation in a self-managed team;
+      - Use of the Scrum methodology.
+
+  - title: Software Developer - Intern
+    company: DATAPREV
+    company_url: "https://www.linkedin.com/company/dataprev-tecnologia/"
+    location: Natal, RN, Brazil
+    date_start: "2019-11-04"
+    date_end: "2020-10-04"
+    description: |2-
+      Worked in the INSS Strategic Panel, mainly using React JS, and in the migration of a desktop application to a web application using Java, Spring Boot, JPA, Hibernate, React JS, etc.
+
+      - Frequent interaction between team members;
+      - Participation in analysis, development and testing;
+      - Use of the Scrum methodology.
+
+  - title: Scholarship student
+    company: Federal University of Rio Grande do Norte
+    company_url: "https://www.linkedin.com/company/petccufrn/"
+    location: Natal, RN, Brazil
+    date_start: "2018-04-01"
+    date_end: "2018-07-01"
+    description:
 ---

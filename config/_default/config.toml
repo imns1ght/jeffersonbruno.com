@@ -6,22 +6,22 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Jefferson Bruno"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = ""
+baseurl = "https://jeffersonbruno.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy; {year} Jefferson Bruno"
 
 ############################
 ## Advanced options below ##
 ############################
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -68,7 +68,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [imaging]
   resampleFilter = "lanczos"
-  quality = 75
+  quality = 100
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.

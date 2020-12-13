@@ -1,39 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jefferson Bruno
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: BSc Student in IT and Software Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Federal University of Rio Grande do Norte (UFRN)
+  url: "https://www.ufrn.br/en"
+- name: Instituto Metrópole Digital - UFRN
+  url: "https://www.imd.ufrn.br/portal/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Algorithms
+- Data Structures
+- Programming Languages
+- Software Development
+- Operating Systems
+- Information Security
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Information Technology
+    institution: Federal University of Rio Grande do Norte (UFRN)
+    year: 2018 – Present
+
+  - course: Technical in Information Technology with emphasis in Web Development
+    institution: Federal University of Rio Grande do Norte (UFRN)
+    year: 2016 – 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,26 +45,23 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/imns1ght
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/imns1ght
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://linkedin.com/in/imns1ght
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/resume-jeffersonbruno.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,8 +70,10 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jefferson Bruno is an undergraduate student in Information Technology at [Federal University of Rio Grande do Norte (UFRN)](https://www.ufrn.br/en), where he has been studying since 2016. His main interests include algorithms, data structures, programming languages, software development and information security. Currently, Jefferson is a front-end developer at [Instituto Metrópole Digital (IMD)](https://www.linkedin.com/company/metropoledigital/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+At IMD, he works in a development project in partnership with a multinational company in the hardware and electronics industry, developing a web application focused on the analysis and visualization of wholesale and retail data. Some technologies and libraries used are: React JS, TypeScript, MobX, Material-UI, Styled Components, etc.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Also worked at [Dataprev](https://www.linkedin.com/company/dataprev-tecnologia/) with the [INSS](https://pt.wikipedia.org/wiki/Instituto_Nacional_do_Seguro_Social) Strategic Panel and in the migration of a desktop application to a web application. Some technologies used: React JS, Java, Spring Boot, JPA, Hibernate, etc.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume-jeffersonbruno.pdf" "newtab" >}}resumé{{< /staticref >}}.
