@@ -28,6 +28,7 @@ experience:
     location: Remote
     date_start: "2021-02-01"
     date_end: ""
+    description:
 
   - title: Front-end developer
     company: Instituto Metrópole Digital - UFRN
@@ -38,9 +39,9 @@ experience:
     description: |2-
       Worked in a development project in partnership with a multinational company in the hardware and electronics industry, developing a web application focused on the analysis and visualization of wholesale and retail data. Some technologies and libraries used: React JS, TypeScript, Material-UI, Styled Components, etc.
 
-  - Frequent interaction with the front-end, back-end and UX / UI teams; - Participation in planning, analysis, development and testing;
-  - Participation in a self-managed team;
-  - Use of the Scrum methodology.
+      - Frequent interaction with the front-end, back-end and UX / UI teams; - Participation in planning, analysis, development and testing;
+      - Participation in a self-managed team;
+      - Use of the Scrum methodology.
 
   - title: Software Developer - Intern
     company: DATAPREV
@@ -51,9 +52,9 @@ experience:
     description: |2-
       Worked in the INSS Strategic Panel, mainly using React JS, and in the migration of a desktop application to a web application using Java, Spring Boot, JPA, Hibernate, React JS, etc.
 
-  - Frequent interaction between team members;
-  - Participation in analysis, development and testing;
-  - Use of the Scrum methodology
+      - Frequent interaction between team members;
+      - Participation in analysis, development and testing;
+      - Use of the Scrum methodology
 
   - title: Scholarship student
     company: Federal University of Rio Grande do Norte
