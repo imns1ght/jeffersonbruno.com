@@ -28,7 +28,6 @@ experience:
     location: Remote
     date_start: "2021-02-01"
     date_end: ""
-    description: |2- Working on it...
 
   - title: Front-end developer
     company: Instituto Metrópole Digital - UFRN
